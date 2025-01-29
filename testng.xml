@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My Suite">
+
+    <test name="UserModule">
+        <classes>
+            <class name="api.test.TestUserModule"/>
+        </classes>
+    </test> <!-- Test -->
+
+    <test name="UserModuleWithDataProvider" enabled="true">
+        <classes>
+            <class name="api.test.TestUserModuleDataDrivenTesting"/>
+        </classes>
+    </test> <!-- Test -->
+
+
+    <test name="UserBaseFromProperties" enabled="true">
+        <classes>
+            <class name="api.test.TestUserModuleUsingPropertiesFile"/>
+        </classes>
+    </test> <!-- Test -->
+
+
+</suite> <!-- Suite -->

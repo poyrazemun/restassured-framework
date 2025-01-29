@@ -1,0 +1,3 @@
+[2025-01-29 13:54:35] [main] INFO  api.test.TestUserModule - Post the user!
+[2025-01-29 13:54:40] [main] WARN  org.apache.poi.openxml4j.opc.OPCPackage - OPC Compliance error [M4.1]: there is more than one core properties relationship in the package! POI will use only the first, but other software may reject this file.
+[2025-01-29 13:54:46] [main] WARN  org.apache.poi.openxml4j.opc.OPCPackage - OPC Compliance error [M4.1]: there is more than one core properties relationship in the package! POI will use only the first, but other software may reject this file.
