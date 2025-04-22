@@ -72,5 +72,5 @@ This project is a Test Automation Framework for API testing using **Java, TestNG
 - Utility methods for reading property files and Excel data are available in `utilities`.
 
 ## Author
-[Your Name]
+poyrazemun
 
